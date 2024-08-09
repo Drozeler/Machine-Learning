@@ -1,2 +1,1 @@
-# Machine-Learning
-My Machine Learning projects
+### Machine Learning Projects
